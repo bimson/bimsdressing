@@ -1,0 +1,32 @@
+.menubar{
+    background-color: #699CFC;
+    width: 100%;
+    height: 20%;
+}
+.title{
+    font-family: blackadder ITC;
+font-style:bold;
+font-size: 300%;
+color: #FF00FF;}
+.bouge{
+
+    margin-left: 30%;
+}
+.photos{
+    width: 32%;float: left;
+    padding: 3%;
+}
+
+.money{
+color: #434343;
+font-family: open sans ;
+width: 65%;
+font-size: 2em;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+.imenu{
+    width: 15%;
+    height: 18%;
+}
